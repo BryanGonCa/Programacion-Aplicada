@@ -1,0 +1,25 @@
+<html>
+
+<head>
+<title>Mi primera vez</title>
+</head>
+
+<body>
+<H1>
+Sistemas Operativos
+</H1>
+
+<img src="https://www.gifmania.com/Gif-Animados-Tecnologia/Imagenes-Informatica/Microsoft/Windows/Windows-10-89690.gif" />
+
+
+<p>El Sistema Operativo (SO) es el programa o software básico de un ordenador. Es una plataforma que facilita la interacción entre el usuario y los demás programas del ordenador y los dispositivos de hardware. Las funciones básicas del Sistema Operativo son administrar los recursos del ordenador, coordinar el hardware y organizar los archivos y directorios de su sistema. Los Sistemas Operativos más utilizados son Windows, Linux y Mac. Tanto Windows como Mac vienen con un navegador integrado, Windows el navegador Internet Explorer y Mac Safari</p>
+
+<script>
+alert("Sistemas Operativos");
+</script>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RdN3Do-67aQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+     
+</body>
+
+</html>
